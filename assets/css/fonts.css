@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'BPGGlaho';
+  src: url('../BPGGlaho.eot?#iefix') format('embedded-opentype'),  url('../BPGGlaho.woff') format('woff'), 
+  url('../BPGGlaho.ttf')  format('truetype'), url('../BPGGlaho.svg#BPGGlaho') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ArialGEO';
+  src: url('../ArialGEO.eot?#iefix') format('embedded-opentype'),  url('../ArialGEO.woff') format('woff'),
+   url('../ArialGEO.ttf')  format('truetype'), url('../ArialGEO.svg#ArialGEO') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
